@@ -82,7 +82,7 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=000"/></a>
+  <a href="https://www.linkedin.com/in/david-ismael-echevarria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=000"/></a>
   <a href="https://github.com/David-Echevarria24" target="_blank"><img src="https://img.shields.io/badge/-GitHub-39FF14?style=for-the-badge&logo=github&logoColor=000"/></a>
   <a href="mailto:davidech1994@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-39FF14?style=for-the-badge&logo=gmail&logoColor=000"/></a>
 </p>
