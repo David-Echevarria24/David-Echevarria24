@@ -45,7 +45,13 @@
 ---
 
 <h2 align="center">🏆 Project Highlights</h2>
-
+<p>
+   <b>BankSystem</b> &mdash; <a href="https://github.com/David-Echevarria24/banksystem">Bank Management System</a><br>
+   <i>Secure, Modular Banking Application</i><br>
+  • Account management, transaction tracking, user authentication<br>
+   • Scalable API integration, database security, clean UI<br>
+  <b>Tech Stack:</b> Please specify (e.g., C#, .NET, SQL Server, etc.)
+</p>
 <p>
   <b>FramboyanSchedulerApp</b> &mdash; <a href="https://github.com/David-Echevarria24/FramboyanSchedulerApp">Dance Studio Scheduler</a><br>
   <i>Full-stack .NET Management System</i><br>
